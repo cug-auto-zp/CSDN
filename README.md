@@ -6,3 +6,6 @@
 
 - [jacobi](https://github.com/cug-auto-zp/CSDN/tree/main/jacobi)—— blog：[Matlab 自编雅可比矩阵 (jacobi) 函数与官方的Jacobian matrix（雅可比矩阵）函数对比及创新](https://blog.csdn.net/cugautozp/article/details/125140981)(发布时间：2023.03.18)
 - [gradient](https://github.com/cug-auto-zp/CSDN/tree/main/gradient) —— blog：[Matlab 最速下降法 实列及代码实现](https://blog.csdn.net/cugautozp/article/details/124895678)(发布时间：2022.05.22)
+- [PyTorch-study-code](PyTorch_study_code) —— blog专栏：[深度学习基础实践 PyTorch
+](https://blog.csdn.net/cugautozp/category_12488897.html)(发布时实践：2023.11.03)
+
