@@ -39,6 +39,6 @@ ax.set_xlabel('w')
 ax.set_ylabel('b')
 ax.set_zlabel('Loss')
 ax.grid(False)
-
+plt.savefig('PyTorch_study_code\Fig\L1_3D.png')
 plt.show()
 

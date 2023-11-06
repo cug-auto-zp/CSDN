@@ -29,4 +29,5 @@ for w in np.arange(0.0, 4.1, 0.1):
 plt.plot(w_list,mse_list)
 plt.ylabel('Loss')
 plt.xlabel('w')
+plt.savefig('PyTorch_study_code\Fig\L1_linear_model.png')
 plt.show() 

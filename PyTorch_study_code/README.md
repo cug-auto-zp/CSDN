@@ -2,7 +2,7 @@
 
  此文件夹存放了我CSDN blog 中的code：
 > 文件命名解读, `L + 数字` 表示第几讲课程, `xx_model`表示什么模型
-> `L+数字 _ Exercise` 表示第几讲课程的练习题
+> `L+数字 _ Exercise` 表示第几讲课程的练习题，Fig文件夹中存放的为每次实验后的一些损失函数图
 > 
 > 参考学习视频: up主刘二大人 [PyTorch深度学习实战](https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.999.0.0)
 - `L1` 第一讲 ---- 线性模型
@@ -14,6 +14,11 @@
 - `L3` 第三讲 ---- 反向传播
   - `L3_back_propagation.py` 是反向传播算法代码文件
   - `L3_Exercise.py` 是反向传播算法的练习题
+- `L4` 第四讲 ---- 线性回归
+  - `L4_linear_regression.py` 是线性回归算法代码文件
+    > 视频所留下的课后练习中除了LBFGS优化器不在`L4_linear_regression.py`里面，其他优化器包含了Adagrad、Adam、Adamax、ASGD、RMSprop、Rprop、SGD
+  - `L4_Exercise.py` 是线性回归算法的练习题
+    > `L4_Exercise.py` 里面只有LBFGS优化器，由于LBFGS优化器写法特殊性单独使用一个文件撰写
 
 
 

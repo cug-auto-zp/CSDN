@@ -34,5 +34,6 @@ plt.plot(epoch_list, l_list)
 plt.ylabel('Loss')
 plt.xlabel('epoch')
 plt.title('Back Propagation')
+plt.savefig('PyTorch_study_code\Fig\L3_BP.png')
 plt.show()
 
