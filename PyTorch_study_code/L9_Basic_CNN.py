@@ -124,7 +124,7 @@ if __name__ == '__main__':
         train(epoch)
         acc = test()
         acc_list.append(acc)
-        epoch_list.append(epoch)
+        epoch_list.append(epoch + 1)
 
     plt.plot(epoch_list, acc_list)
     plt.ylabel('Accuracy')
