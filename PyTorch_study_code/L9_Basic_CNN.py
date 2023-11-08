@@ -44,14 +44,14 @@ transform = transforms.Compose([
     transforms.ToTensor(), 
     transforms.Normalize((0.1307, ), (0.3081, ))
     ])
-train_dataset = datasets.MNIST(root='../dataset/mnist/',
+train_dataset = datasets.MNIST(root='PyTorch_study_code/Dataset/mnist/',
                                 train=True,
                                 download=True,
                                 transform=transform)
 train_loader = DataLoader(train_dataset,
                             shuffle=True,   
                             batch_size=batch_size)
-test_dataset = datasets.MNIST(root='../dataset/mnist/',
+test_dataset = datasets.MNIST(root='PyTorch_study_code/dataset/mnist/',
                                 train=False,
                                 download=True,
                                 transform=transform)
