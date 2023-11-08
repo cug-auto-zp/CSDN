@@ -28,9 +28,17 @@
   - `L6_Multiple_Dimension.py` 是多维输入代码文件
 - `L7` 第七讲 ---- 加载数据集
   - `L7_Dataset_DataLoader.py` 是加载数据集代码文件
-
-
-
+- `L8` 第八讲 ---- 多分类问题
+  - `L8_Softmax_Classifier.py` 是对多分类问题代码文件
+  - `L8_Exercise.py` 是对多分类问题练习题, 主要是验证Try to know CrossEntropyLoss <==> LogSoftmax + NLLLoss
+- `L9` 第九讲 ---- 卷积神经网络（基础篇）
+  - 
+- `L10` 第十讲 ---- 卷积神经网络（进阶篇）
+  - 
+- `L11` 第十一讲 ---- 循环神经网络（基础篇）
+  - 
+- `L12` 第十二讲 ---- 循环神经网络（进阶篇）
+  - 
 
 
 
