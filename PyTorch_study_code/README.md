@@ -7,6 +7,14 @@
 > 参考学习视频: up主刘二大人 [PyTorch深度学习实战](https://www.bilibili.com/video/BV1Y7411d7Ys/?spm_id_from=333.999.0.0),学习之前需要准备一些包包含：
 > - torch
 > - torchvision
+> - numpy
+> - matplotlib
+
+> 本人使用的版本：
+> - python 3.9.6
+> - torch (GPU版本) 2.1.0 + cu 12.1 , 安装教程：[Pytorch与CUDA的安装教程](https://blog.csdn.net/CDL_LuFei/article/details/124012894)
+> - torchvision 0.16.0
+> 
 - `L1` 第一讲 ---- 线性模型
   - `L1_linear_model.py` 是线性模型代码文件
   - `L1_Exercise.py` 是线性模型的练习题
@@ -39,7 +47,6 @@
   - 
 - `L12` 第十二讲 ---- 循环神经网络（进阶篇）
   - 
-
 
 
 > 深度学习中可视化还是比较重要的, 打印日志 或者 可视化图表
