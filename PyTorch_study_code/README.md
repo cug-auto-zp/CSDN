@@ -44,12 +44,10 @@
 - `L10` 第十讲 ---- 卷积神经网络（进阶篇）
   - `L10_Advanced_CNN.py` 是卷积神经网络（进阶）代码文件
   - `L10_Exercise.py` 是卷积神经网络（进阶）练习代码,
-    > 包含了文献He K, Zhang X, Ren S, et al. Identity Mappings in Deep Residual Networks[C]中的(b) constant, (e) conv shortcut; 
+    > 包含了文献He K, Zhang X, Ren S, et al. Identity Mappings in Deep Residual Networks[C]中的(b) constant scaling, (e) conv shortcut; 
 - `L11` 第十一讲 ---- 循环神经网络（基础篇）
-  
-  - 
+  - `L11_RNN.py` 是循环神经网络代码文件
 - `L12` 第十二讲 ---- 循环神经网络（进阶篇）
-  
   - 
 
 
