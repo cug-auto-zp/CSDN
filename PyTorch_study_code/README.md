@@ -47,8 +47,9 @@
     > 包含了文献He K, Zhang X, Ren S, et al. Identity Mappings in Deep Residual Networks[C]中的(b) constant scaling, (e) conv shortcut; 
 - `L11` 第十一讲 ---- 循环神经网络（基础篇）
   - `L11_RNN.py` 是循环神经网络代码文件
+  - `L11_Exercise.py` 是对循环神经网络的练习题（包含使用了LSTM 和 GRU）
 - `L12` 第十二讲 ---- 循环神经网络（进阶篇）
-  - 
+  - `L12_RNN_Classifier.py` 是循环神经网络（进阶）代码文件
 
 
 > 深度学习中可视化还是比较重要的, 打印日志 或者 可视化图表

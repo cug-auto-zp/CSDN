@@ -192,6 +192,3 @@ for epoch in range(15):
     print(', Epoch [%d/15] loss = %.3f' % (epoch + 1, loss.item()))
 
 
-
-
-
